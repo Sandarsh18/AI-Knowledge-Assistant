@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyPDF2
+requests
+azure-storage-blob
+azure-cosmos
+python-dotenv
+python-multipart
