@@ -1,0 +1,12 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+venv/
+
+# OS / Editor
+.DS_Store
+*.log
+.env
