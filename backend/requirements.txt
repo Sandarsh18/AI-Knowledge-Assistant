@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# PDF processing
+PyMuPDF==1.23.26
+
+# Gemini official SDK (requires Pydantic v2)
+google-genai==1.51.0
+
+# Azure SDKs
+azure-core==1.30.0
+azure-storage-blob==12.19.0
+azure-cosmos==4.5.1
+
+# Utility dependencies
+python-dotenv==1.0.1
+pydantic>=2.6.4,<3
